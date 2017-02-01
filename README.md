@@ -106,6 +106,7 @@
 
 ## Python 
 
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [shyaml](https://github.com/0k/shyaml) - YAML for command line
 - [trellowarrior](https://github.com/ogarcia/trellowarrior) - Tool to sync Taskwarrior projects with Trello boards
 - [python-rss2irc](https://github.com/gehaxelt/python-rss2irc) - A simple IRC bot which fetches and posts RSS feeds
