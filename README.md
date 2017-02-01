@@ -14,7 +14,6 @@
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
-  - [Puppet](#puppet)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Shell](#shell)
@@ -98,11 +97,6 @@
 ## Perl 
 
 - [dotfiles](https://github.com/electro7/dotfiles) - Config files for linux (master)
-
-## Puppet 
-
-- [puppet-modules](https://github.com/kickstandproject/puppet-modules) - 
-- [puppet-openldap](https://github.com/jfryman/puppet-openldap) - LDAP Configuration Management Module for Puppet
 
 ## Python 
 
